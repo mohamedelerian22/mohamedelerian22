@@ -7,11 +7,12 @@
 - 🎯 Preparing for the ITI Summer Training (Data Analytics & BI).
 - 🚀 Passionate about building real-world projects and continuously improving my technical skills.
 
-## Tech Stack
-- Python (Learning)
-- SQL (Learning)
+## Currently Learning
+
+- Python
+- SQL
 - Git & GitHub
-- Data Analysis (Learning)
+- Data Analysis
 
 ## Connect with Me
 - LinkedIn: https://linkedin.com/in/mohamedelerian22
