@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohamed Elerian 👋
 
-<!--
-**mohamedelerian22/mohamedelerian22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Computer Engineering Student at Faculty of Electronic Engineering, Menoufia University.
+- 📊 Aspiring Data Engineer.
+- 🌱 Currently learning Python, SQL, and Data Analysis.
+- 🎯 Preparing for the ITI Summer Training (Data Analytics & BI).
+- 🚀 Passionate about building real-world projects and continuously improving my technical skills.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python (Learning)
+- SQL (Learning)
+- Git & GitHub
+- Data Analysis (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- LinkedIn: https://linkedin.com/in/mohamedelerian22
